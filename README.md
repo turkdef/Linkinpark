@@ -1,2 +1,2 @@
-# Linkinpark-Hacked
-instagram.com/turkdefops
+# Linkinpark subdomain takeover
+
